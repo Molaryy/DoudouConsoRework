@@ -12,5 +12,5 @@ First year students at Epitech - European Institute of Technology
 - [@ValentinPeron](https://github.com/ValentinPeron)
 
 
-![Logo](file:///home/mohammed/Downloads/Conso_project/bear-logo.png)
+![Alt text](assets/site.png?raw=true "site")
 
